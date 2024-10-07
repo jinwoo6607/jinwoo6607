@@ -30,7 +30,7 @@
     
 Chat GPT 를 이용한 예제들
 
--주소록 및 다이어리
+###주소록 및 다이어리
 <img width="299" alt="스크린샷 2024-10-07 164140" src="https://github.com/user-attachments/assets/4edde4fa-f4d5-434f-9bb9-0c0c6bee7386">
 
     
