@@ -27,7 +27,7 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-#Chat GPT 를 이용한 예제
+Chat GPT 를 이용한 예제들
 -주소록 및 다이어리
 
     
