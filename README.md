@@ -28,7 +28,8 @@
     <div align= "center">  </div> 
     </div>
 #Chat GPT 를 이용한 예제
--주소록
+-주소록 및 다이어리
+
     
 <!---
 jinwoo6607/jinwoo6607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
