@@ -37,7 +37,23 @@ Chat GPT 를 이용한 예제
 <img width="299" alt="스크린샷 2024-10-07 164140" src="https://github.com/user-attachments/assets/4edde4fa-f4d5-434f-9bb9-0c0c6bee7386">
 
 
+
+
+
 파일 및 링크-https://github.com/jinwoo6607/juso206
+
+
+
+
+-계산기(사용자가 원하는 수를 계산할수있다)
+
+
+<img width="523" alt="스크린샷 2024-10-08 141824" src="https://github.com/user-attachments/assets/9328e9dc-d4ea-4674-9d6f-f4eebda4513b">
+
+
+
+파일 및 링크
+
     
 <!---
 jinwoo6607/jinwoo6607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
