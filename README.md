@@ -63,6 +63,30 @@ Chat GPT 를 이용한 예제
 
 파일 및 링크-https://github.com/jinwoo6607/Calculator
 
+
+
+
+
+
+<사용자가 현재 시간 시계와 타이머,알람 기능 사용가능>
+
+
+
+
+
+
+
+
+
+
+<img width="400" alt="스크린샷 2024-10-08 231017" src="https://github.com/user-attachments/assets/37327fc0-d295-4023-8a18-e7368199064e">
+
+
+
+
+
+파일 및 링크-https://github.com/jinwoo6607/Clock
+
     
 <!---
 jinwoo6607/jinwoo6607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
