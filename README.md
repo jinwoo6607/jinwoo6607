@@ -103,7 +103,8 @@ Chat GPT 를 이용한 예제
 
 
 
-<img width="475" alt="1kfskd" src="https://github.com/user-attachments/assets/286a41f9-3056-404a-b9e7-08f55d33444c">
+
+<img width="430" alt="gernveg" src="https://github.com/user-attachments/assets/e14a1baf-cc98-42f2-ad6c-b34d7df38c10">
 
 
 
