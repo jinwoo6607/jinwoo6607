@@ -122,7 +122,48 @@ Chat GPT 를 이용한 예제
 
 
 파일 및 링크-https://github.com/jinwoo6607/glasses-no-glasses
-    
+
+
+
+
+
+
+
+<안면인식으로 자동 회원인식 프로그램>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="470" alt="11" src="https://github.com/user-attachments/assets/0d83f99f-956b-4405-a952-12f426a9e532">
+
+
+
+
+
+
+
+
+
+파일 및 링크-https://github.com/jinwoo6607/joinhealth
+
+
 <!---
 jinwoo6607/jinwoo6607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
