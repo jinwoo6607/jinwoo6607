@@ -87,6 +87,27 @@ Chat GPT 를 이용한 예제
 
 파일 및 링크-https://github.com/jinwoo6607/Clock
 
+
+
+
+
+<사용자의 정보를 받고 웹캠으로 안경착용여부를 엑셀에 저장되는 프로그램>
+
+
+
+
+
+
+
+
+
+
+
+<img width="475" alt="1kfskd" src="https://github.com/user-attachments/assets/286a41f9-3056-404a-b9e7-08f55d33444c">
+
+
+
+파일 및 링크-https://github.com/jinwoo6607/glasses-no-glasses
     
 <!---
 jinwoo6607/jinwoo6607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
