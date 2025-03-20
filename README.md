@@ -180,6 +180,7 @@ Chat GPT 를 이용한 예제
 
 ## 숫자맞추기게임
 ![스크린샷 2025-03-20 135616](https://github.com/user-attachments/assets/b6a256ad-95b9-45b5-9203-e618226d56e5)
+![스크린샷 2025-03-20 135351](https://github.com/user-attachments/assets/fe626a64-e38a-43d1-a1e7-e9613523193a)
 
 
 ### 파일 및 링크-https://jinwoo6607.github.io/web002/
