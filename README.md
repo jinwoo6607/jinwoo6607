@@ -177,6 +177,9 @@ Chat GPT 를 이용한 예제
 
 ## <English practice -실무영어>
 파일 및 링크-https://github.com/jinwoo6607/practiceenglish/blob/main/README.md
+
+## 숫자맞추기게임
+파일 및 링크-https://jinwoo6607.github.io/web002/
 <!---
 jinwoo6607/jinwoo6607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
