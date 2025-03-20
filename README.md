@@ -174,6 +174,9 @@ Chat GPT 를 이용한 예제
 ## <2025 class 2th>
 
 파일 및 링크-https://github.com/jinwoo6607/2025class_2th
+
+## <English practice -실무영어>
+파일 및 링크-https://github.com/jinwoo6607/practiceenglish/blob/main/README.md
 <!---
 jinwoo6607/jinwoo6607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
