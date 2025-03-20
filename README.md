@@ -33,7 +33,7 @@ Chat GPT 를 이용한 예제
 
 
 
-<주소록 및 다이어리(사용자에게 이름과 전화번호를 받고 추가적으로 날짜를 받을 수 있다)>
+## <주소록 및 다이어리(사용자에게 이름과 전화번호를 받고 추가적으로 날짜를 받을 수 있다)>
 
 
 
@@ -44,12 +44,12 @@ Chat GPT 를 이용한 예제
 
 
 
-파일 및 링크-https://github.com/jinwoo6607/juso206
+### 파일 및 링크-https://github.com/jinwoo6607/juso206
 
 
 
 
-<계산기(사용자가 원하는 수를 계산할수있다)>
+## <계산기(사용자가 원하는 수를 계산할수있다)>
 
 
 
@@ -61,14 +61,14 @@ Chat GPT 를 이용한 예제
 
 
 
-파일 및 링크-https://github.com/jinwoo6607/Calculator
+### 파일 및 링크-https://github.com/jinwoo6607/Calculator
 
 
 
 
 
 
-<사용자가 현재 시간 시계와 타이머,알람 기능 사용가능>
+## <사용자가 현재 시간 시계와 타이머,알람 기능 사용가능>
 
 
 
@@ -85,13 +85,13 @@ Chat GPT 를 이용한 예제
 
 
 
-파일 및 링크-https://github.com/jinwoo6607/Clock
+### 파일 및 링크-https://github.com/jinwoo6607/Clock
 
 
 
 
 
-<사용자의 정보를 받고 웹캠으로 안경착용여부를 엑셀에 저장되는 프로그램>
+## <사용자의 정보를 받고 웹캠으로 안경착용여부를 엑셀에 저장되는 프로그램>
 
 
 
@@ -121,7 +121,7 @@ Chat GPT 를 이용한 예제
 
 
 
-파일 및 링크-https://github.com/jinwoo6607/glasses-no-glasses
+### 파일 및 링크-https://github.com/jinwoo6607/glasses-no-glasses
 
 
 
@@ -129,7 +129,7 @@ Chat GPT 를 이용한 예제
 
 
 
-<안면인식으로 자동 회원인식 프로그램>
+## <안면인식으로 자동 회원인식 프로그램>
 
 
 
@@ -161,7 +161,7 @@ Chat GPT 를 이용한 예제
 
 
 
-파일 및 링크-https://github.com/jinwoo6607/joinhealth
+### 파일 및 링크-https://github.com/jinwoo6607/joinhealth
 
 
 # 2025
