@@ -165,13 +165,15 @@ Chat GPT 를 이용한 예제
 
 
 # 2025
+## <2025 class 1>
+파일 및 링크-https://github.com/jinwoo6607/2025-class
 
 ## infosecurity-정보보안
-파일및링크https://github.com/jinwoo6607/infosecurity
+파일 및 링크-https://github.com/jinwoo6607/infosecurity
 
 ## <2025 class 2>
 
-파일 및 링크-https://github.com/jinwoo6607/2025-class
+파일 및 링크-
 <!---
 jinwoo6607/jinwoo6607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
