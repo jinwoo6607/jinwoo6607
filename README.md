@@ -165,6 +165,10 @@ Chat GPT 를 이용한 예제
 
 
 # 2025
+
+## 임베디드시스템 수업 <Embedded Sysyem_class>
+파일 및 링크-https://github.com/jinwoo6607/Embedded-System-Class/blob/main/README.md
+
 ## <2025 class 1>
 파일 및 링크-https://github.com/jinwoo6607/2025-class
 
