@@ -175,12 +175,17 @@ Chat GPT 를 이용한 예제
 ## infosecurity-정보보안
 파일 및 링크-https://github.com/jinwoo6607/infosecurity
 
-## <2025 class 2th>
+## javaclass(자바응용)
 
-파일 및 링크-https://github.com/jinwoo6607/2025class_2th
+파일 및 링크-https://github.com/jinwoo6607/network_class
+
 
 ## <English practice -실무영어>
 파일 및 링크-https://github.com/jinwoo6607/practiceenglish/blob/main/README.md
+
+## <2025 class 2th>
+
+파일 및 링크-https://github.com/jinwoo6607/2025class_2th
 
 ## 숫자맞추기게임
 ![스크린샷 2025-03-20 135616](https://github.com/user-attachments/assets/b6a256ad-95b9-45b5-9203-e618226d56e5)
