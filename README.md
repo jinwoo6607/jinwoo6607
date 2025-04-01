@@ -191,11 +191,13 @@ Chat GPT 를 이용한 예제
 ![스크린샷 2025-03-20 135616](https://github.com/user-attachments/assets/b6a256ad-95b9-45b5-9203-e618226d56e5)
 https://github.com/jinwoo6607/web002/blob/main/README.md
 
+### 파일 및 링크-https://jinwoo6607.github.io/web002/
+
 ## 벽돌깨기게임 
 ![스크린샷 2025-04-01 162352](https://github.com/user-attachments/assets/32fe5722-c821-493b-b9a4-e924cf7ccb7e)
-[jin02.zip](https://github.com/user-attachments/files/19546698/jin02.zip)
+### 파일-[jin02.zip](https://github.com/user-attachments/files/19546698/jin02.zip)
 
-### 파일 및 링크-https://jinwoo6607.github.io/web002/
+
 
 <!---
 jinwoo6607/jinwoo6607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
