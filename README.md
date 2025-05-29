@@ -199,7 +199,9 @@ https://github.com/jinwoo6607/web002/blob/main/README.md
 
 ## (발표)기본 북스토어 구조  기본북스토어 구조를 dbdiagram.io DBML(Database Markup Language) 데이터베이스 스키마(구조)정의 //ERD(Entity Relationship Diagram) 시각화
 https://github.com/jinwoo6607/basicbookstorestructure
+
 ![스크린샷 2025-05-29 103902](https://github.com/user-attachments/assets/3f266951-4bdb-4bf8-9ec0-986be7383e08)
+![스크린샷 2025-05-29 111247](https://github.com/user-attachments/assets/8375d75a-3606-40fd-9c96-9fea96ecfffc)
 https://dbdiagram.io/d/6837ba2cc07db17e77a1cde9
 
 <!---
