@@ -197,7 +197,10 @@ https://github.com/jinwoo6607/web002/blob/main/README.md
 ![스크린샷 2025-04-01 162352](https://github.com/user-attachments/assets/32fe5722-c821-493b-b9a4-e924cf7ccb7e)
 ### 파일-[jin02.zip](https://github.com/user-attachments/files/19546698/jin02.zip)
 
-
+## 기본 북스토어 구조  DBML (Database Markup Language)
+https://github.com/jinwoo6607/basicbookstorestructure
+![스크린샷 2025-05-29 103902](https://github.com/user-attachments/assets/3f266951-4bdb-4bf8-9ec0-986be7383e08)
+https://dbdiagram.io/d/6837ba2cc07db17e77a1cde9
 
 <!---
 jinwoo6607/jinwoo6607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
