@@ -204,6 +204,10 @@ https://github.com/jinwoo6607/basicbookstorestructure
 ![스크린샷 2025-05-29 111247](https://github.com/user-attachments/assets/8375d75a-3606-40fd-9c96-9fea96ecfffc)
 https://dbdiagram.io/d/6837ba2cc07db17e77a1cde9
 
+## class1
+
+## class2
+https://github.com/jinwoo6607/maisoneclat
 <!---
 jinwoo6607/jinwoo6607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
