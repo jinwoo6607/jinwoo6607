@@ -208,6 +208,11 @@ https://dbdiagram.io/d/6837ba2cc07db17e77a1cde9
 
 ## class2
 https://github.com/jinwoo6607/maisoneclat
+
+
+## mobil class +개인프로잭트 / 팀 프로젝트 /각장실습내용 정리
+
+https://github.com/jinwoo6607/mobileclass/blob/main/README.md
 <!---
 jinwoo6607/jinwoo6607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
