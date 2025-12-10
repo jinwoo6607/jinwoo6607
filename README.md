@@ -216,7 +216,7 @@ https://github.com/jinwoo6607/mobileclass/blob/main/README.md
 
 
 ## ended 2025
-
+https://github.com/jinwoo6607/ended2025
 <!---
 jinwoo6607/jinwoo6607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
