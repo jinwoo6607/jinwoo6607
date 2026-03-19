@@ -221,3 +221,14 @@ https://github.com/jinwoo6607/ended2025
 jinwoo6607/jinwoo6607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## 2026
+
+## 반도체과정
+
+## 디지털회로설
+
+## 마이크로프로세서
+
+## 인공지능
+
+## 회로설계실습
