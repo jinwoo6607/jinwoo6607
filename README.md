@@ -230,5 +230,5 @@ You can click the Preview link to take a look at your changes.
 ## 마이크로프로세서
 
 ## 인공지능
-
+https://docs.google.com/document/d/1wghA9tH8ePgE8bN_-PsB89TMV8TGY_Gz3iopEV0_5ks/edit?tab=t.0
 ## 회로설계실습
