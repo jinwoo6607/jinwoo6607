@@ -234,6 +234,6 @@ https://docs.google.com/document/d/1wghA9tH8ePgE8bN_-PsB89TMV8TGY_Gz3iopEV0_5ks/
 
 ## 회로설계실습
 
-## 캡스톤
+## 캡스톤 (헬스케어 AI 어플리케이션)
 https://github.com/WSU-HealthCare-AI/backend
 https://github.com/WSU-HealthCare-AI
