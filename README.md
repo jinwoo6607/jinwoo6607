@@ -234,6 +234,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 회로설계실습
 
-## 캡스톤 (헬스케어 AI 어플리케이션)
+##
 https://github.com/WSU-HealthCare-AI/backend
 https://github.com/WSU-HealthCare-AI
+
+# 헬스케어 프로젝트 사용가이드
