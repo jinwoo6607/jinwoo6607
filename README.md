@@ -214,6 +214,10 @@ https://github.com/jinwoo6607/maisoneclat
 
 https://github.com/jinwoo6607/mobileclass/blob/main/README.md
 
+##
+https://github.com/WSU-HealthCare-AI/backend
+https://github.com/WSU-HealthCare-AI 
+
 
 ## ended 2025
 https://github.com/jinwoo6607/ended2025
@@ -234,8 +238,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 회로설계실습
 
-##
-https://github.com/WSU-HealthCare-AI/backend
-https://github.com/WSU-HealthCare-AI
+
 
 # 헬스케어 프로젝트 사용가이드
+https://github.com/jinwoo6607/healthcare-ai/tree/main
